@@ -6,7 +6,7 @@ import json
 
 def run(filepath: str):
     """
-    Read reviews from a review.json file to access the sentiments and create a vizulation
+    Read reviews from a review.json file to access the sentiments and create a visualization
     to express sentiment ratio
     
     Args: Acess the JSON file that contains reviews.
